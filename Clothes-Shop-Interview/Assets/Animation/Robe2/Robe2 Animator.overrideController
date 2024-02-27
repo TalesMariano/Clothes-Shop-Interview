@@ -7,5 +7,21 @@ AnimatorOverrideController:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Robe2 Animator
-  m_Controller: {fileID: 0}
-  m_Clips: []
+  m_Controller: {fileID: 9100000, guid: a178e63babd8db9408e2c898972b7a8e, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: bd96d6a1fa8ef004b86d0f025e6b7a45, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2c64fbe99b017c848ab7d7feffb2f5d2, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 81f0158305eb7ea479c7e64b78255a37, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7f01f772c48ea4a48b480132d4c1584a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: aa2eae29759eda743a55fa8d994c109d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4a0a904d227e2714296a76fb0f46459e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3851a18df0153f64f9051672c655b937, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: be91c35eee832514aa3ef5d58be291f4, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d34d39d448d439347bfe8706d43ba15b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cc50f77a4174c4c4480fec2850e299c4, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 62697d2945d35304fa5c3fd0dba0658a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8ac2445100abaf34c8d3810dfcbc1b45, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f4a660f6c3d7df745a6e318733631f49, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f2fee8fdbfbdfe844acf9dcd0319a775, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a31f51230cdb3654496962751eb0d9c7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a35261b6c3e61e647a675ea5dfe7d908, type: 2}
