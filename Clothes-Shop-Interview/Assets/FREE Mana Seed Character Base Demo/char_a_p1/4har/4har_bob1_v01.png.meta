@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8c9fd9b8c693d574cbfdc30434ca8745
+guid: bce2cb1121968c240963b13b43c38674
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -123,7 +123,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_0
+      name: 4har_bob1_v01_0
       rect:
         serializedVersion: 2
         x: 0
@@ -137,14 +137,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b9eb77a1ac501e04081e9145b331dcd5
-      internalID: 540115174
+      spriteID: 5a08247038750064a9f79ca2ebaf12f5
+      internalID: 984878686
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_1
+      name: 4har_bob1_v01_1
       rect:
         serializedVersion: 2
         x: 64
@@ -158,14 +158,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ec104d47587781947b0d416b8dffd361
-      internalID: -1998491592
+      spriteID: 12734a4c7f0787440abc10c42a601f76
+      internalID: -1366196824
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_2
+      name: 4har_bob1_v01_2
       rect:
         serializedVersion: 2
         x: 128
@@ -179,14 +179,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 14a7db7f460a0044ab2c6033fc676e60
-      internalID: -246928468
+      spriteID: 779c6460ea11d9846882630f87831d9d
+      internalID: 934516547
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_3
+      name: 4har_bob1_v01_3
       rect:
         serializedVersion: 2
         x: 192
@@ -200,14 +200,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3cd5d9df508e394ba3c7582bfecc227
-      internalID: 1566978842
+      spriteID: 3b983444accfebd40a0d8108e43833d2
+      internalID: 896806923
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_4
+      name: 4har_bob1_v01_4
       rect:
         serializedVersion: 2
         x: 256
@@ -221,14 +221,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1273da724e6a14a44a71438c82d4eaee
-      internalID: -1364213899
+      spriteID: afa459140ad233e4fa0679bc582949e6
+      internalID: 607748228
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_5
+      name: 4har_bob1_v01_5
       rect:
         serializedVersion: 2
         x: 320
@@ -242,14 +242,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4e7b982bd5608434e8ff6c5e030e9bbc
-      internalID: 1238509903
+      spriteID: 06d48b7c1102b724bb72970302d4827e
+      internalID: 1592177518
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_6
+      name: 4har_bob1_v01_6
       rect:
         serializedVersion: 2
         x: 384
@@ -263,14 +263,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e9bbf5b1858f9854b9a6059d254d1aff
-      internalID: -1466925205
+      spriteID: f12446de740d2d54f892871427b40e6f
+      internalID: 1211865277
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_7
+      name: 4har_bob1_v01_7
       rect:
         serializedVersion: 2
         x: 448
@@ -284,14 +284,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 85027dc870dc7e540840cf6a6651e688
-      internalID: -665023951
+      spriteID: 129bc4a866eb72a47bc5d2bd3cbd0385
+      internalID: -669450917
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_8
+      name: 4har_bob1_v01_8
       rect:
         serializedVersion: 2
         x: 0
@@ -305,14 +305,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a9e5c1109b287c4c8284b82b23fbc40
-      internalID: -2087624048
+      spriteID: 644f344b45758164e85f3c886be3c611
+      internalID: -1346283686
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_9
+      name: 4har_bob1_v01_9
       rect:
         serializedVersion: 2
         x: 64
@@ -326,14 +326,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6c349ee76906ec3468af9138287fcb09
-      internalID: 2119003300
+      spriteID: a1d4d17d802a27b4f853b79ff8134ea9
+      internalID: 422602358
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_10
+      name: 4har_bob1_v01_10
       rect:
         serializedVersion: 2
         x: 128
@@ -347,14 +347,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 37c81ffd731f3ba4fb1abaa58c79ac1e
-      internalID: -177744229
+      spriteID: 1142dbb06c7b41a48acdfedede3dd197
+      internalID: -1383872538
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_11
+      name: 4har_bob1_v01_11
       rect:
         serializedVersion: 2
         x: 192
@@ -368,14 +368,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 270b20e55322d3f4aa10f8256ea07aef
-      internalID: 1707093603
+      spriteID: 519e7c62c6709b8448220d80e84bbe75
+      internalID: 1751495223
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_12
+      name: 4har_bob1_v01_12
       rect:
         serializedVersion: 2
         x: 256
@@ -389,14 +389,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cca68b3b06112ef4dbfbf81e1790680c
-      internalID: 987474956
+      spriteID: d1c3166f5be980e4bb6de522637ba4fa
+      internalID: -388405363
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_13
+      name: 4har_bob1_v01_13
       rect:
         serializedVersion: 2
         x: 320
@@ -410,14 +410,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4e58ecdc85551ce4fa4ecb2c3cf83939
-      internalID: -1317687276
+      spriteID: 1b3fcbd250f9e8b489d18a70dbe6c1df
+      internalID: -452277955
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_14
+      name: 4har_bob1_v01_14
       rect:
         serializedVersion: 2
         x: 384
@@ -431,14 +431,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 43c66ce6c14d1a748bd09ccfb7e33953
-      internalID: 1073999131
+      spriteID: c826fa63cb5aaab48900b8f54e358054
+      internalID: -1755723588
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_15
+      name: 4har_bob1_v01_15
       rect:
         serializedVersion: 2
         x: 448
@@ -452,14 +452,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22746bf257dc86442b0dbe71299e548a
-      internalID: 900122863
+      spriteID: b9445ee9b8be08b4d900e8a9f1098a1a
+      internalID: -1873213158
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_16
+      name: 4har_bob1_v01_16
       rect:
         serializedVersion: 2
         x: 0
@@ -473,14 +473,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d604475c04a33cf41917c0bf155d61f0
-      internalID: -1152756219
+      spriteID: 3b3725dcfc253ec45870ed0641c728d0
+      internalID: -1057103539
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_17
+      name: 4har_bob1_v01_17
       rect:
         serializedVersion: 2
         x: 64
@@ -494,14 +494,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aa4aa2c245fd1564386e71fc8cd390ae
-      internalID: 858443409
+      spriteID: 7a5a231545be725499b3c05c1888bc43
+      internalID: 868407091
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_18
+      name: 4har_bob1_v01_18
       rect:
         serializedVersion: 2
         x: 128
@@ -515,14 +515,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 52ae8e036e9df1e40b3e34fe973a787f
-      internalID: 588560150
+      spriteID: 4930240656e1eba46b00555990f236e3
+      internalID: 1964487702
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_19
+      name: 4har_bob1_v01_19
       rect:
         serializedVersion: 2
         x: 192
@@ -536,14 +536,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 53d86b21fc3007241b1d50eba5f8fae3
-      internalID: -673695311
+      spriteID: 76e6fdafd6c063c4b9462610f6a000d0
+      internalID: 449848686
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_20
+      name: 4har_bob1_v01_20
       rect:
         serializedVersion: 2
         x: 256
@@ -557,14 +557,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5b670bbe2bdd2fd4a863b1a7b43168e5
-      internalID: -817334910
+      spriteID: 187cb20c9c193a947a39456ef081d375
+      internalID: -163874120
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_21
+      name: 4har_bob1_v01_21
       rect:
         serializedVersion: 2
         x: 320
@@ -578,14 +578,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c99d07328b1500f4ab87acdbdca8ac68
-      internalID: -1564721109
+      spriteID: 2f75ed3f00c7e3e43902b3304f3264e2
+      internalID: 968250985
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_22
+      name: 4har_bob1_v01_22
       rect:
         serializedVersion: 2
         x: 384
@@ -599,14 +599,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 891c7627e9f53a1488955cf79bfd6770
-      internalID: 2107606423
+      spriteID: bb90f9f5bdb10ba4aa8593330b1ec1e8
+      internalID: 2146335446
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_23
+      name: 4har_bob1_v01_23
       rect:
         serializedVersion: 2
         x: 448
@@ -620,14 +620,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f3c643e4a7d1b844be2b542467483a2
-      internalID: 746078223
+      spriteID: f046fa8f84af1ac40b994961fec1a565
+      internalID: -1063653412
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_24
+      name: 4har_bob1_v01_24
       rect:
         serializedVersion: 2
         x: 0
@@ -641,14 +641,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0844416d8141a3b46a6d04ee96249ac0
-      internalID: -1611719697
+      spriteID: 105d52842ba835c458c3296019a30466
+      internalID: 894291503
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_25
+      name: 4har_bob1_v01_25
       rect:
         serializedVersion: 2
         x: 64
@@ -662,14 +662,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 795b7e62403efed46bff62d4f3fcf82b
-      internalID: 268818926
+      spriteID: c526d9929ab6b724d9ee57f0b4e2320a
+      internalID: 2080751847
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_26
+      name: 4har_bob1_v01_26
       rect:
         serializedVersion: 2
         x: 128
@@ -683,14 +683,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f2b4713dbcbe18043a34ecb4844ccca2
-      internalID: -1972602265
+      spriteID: 3a1d71a186821ab47989ebc531bef33e
+      internalID: -1508567689
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_27
+      name: 4har_bob1_v01_27
       rect:
         serializedVersion: 2
         x: 192
@@ -704,14 +704,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fba244b8243a50844959b8c8215d8529
-      internalID: -138725881
+      spriteID: d1c6707b02c33ab4fad9811c8a466c2f
+      internalID: 2135298698
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_28
+      name: 4har_bob1_v01_28
       rect:
         serializedVersion: 2
         x: 256
@@ -725,14 +725,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 752f9e4361ab6d2408c8bd941a09ab44
-      internalID: -379458012
+      spriteID: 55721cd2c8f455d4784cf240569a2e4d
+      internalID: 434795203
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_29
+      name: 4har_bob1_v01_29
       rect:
         serializedVersion: 2
         x: 320
@@ -746,14 +746,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d05918b226c669442a1e89903cfc1ef9
-      internalID: 2024396874
+      spriteID: ad8b7c7122c899d429f5a0c3a5b41282
+      internalID: -90222048
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_30
+      name: 4har_bob1_v01_30
       rect:
         serializedVersion: 2
         x: 384
@@ -767,14 +767,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f7444e079df5f3d4893b5e4d09d1b5ee
-      internalID: 1529593570
+      spriteID: baf43f8d5edc5c34abc382ae06978438
+      internalID: -1509422088
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_31
+      name: 4har_bob1_v01_31
       rect:
         serializedVersion: 2
         x: 448
@@ -788,14 +788,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: da283dae730c9314a8dc8125502dce96
-      internalID: -954684423
+      spriteID: fc2731e131230664e83f59d8de18fa1c
+      internalID: -1782888917
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_32
+      name: 4har_bob1_v01_32
       rect:
         serializedVersion: 2
         x: 0
@@ -809,14 +809,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef46a08f5d01fdd42821ea72c67d349d
-      internalID: -291299715
+      spriteID: 368004419e9a45e44a97281d51e66eb2
+      internalID: 1392177823
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_33
+      name: 4har_bob1_v01_33
       rect:
         serializedVersion: 2
         x: 64
@@ -830,14 +830,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f948ac3f249b7a049ac4943bbffaa646
-      internalID: 977898975
+      spriteID: da2bcfe3681907542bdf7939c38b6732
+      internalID: 1780074305
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_34
+      name: 4har_bob1_v01_34
       rect:
         serializedVersion: 2
         x: 128
@@ -851,14 +851,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 253f7149988dce143956c8f9bdfe79cb
-      internalID: 141263519
+      spriteID: f1389ca8bd1bf6643996a1e3594f206d
+      internalID: -725139862
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_35
+      name: 4har_bob1_v01_35
       rect:
         serializedVersion: 2
         x: 192
@@ -872,14 +872,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0260aff761968594783a380c14c38e95
-      internalID: 1743667620
+      spriteID: 54375c511b056a34391f6440e886936b
+      internalID: 769343497
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_36
+      name: 4har_bob1_v01_36
       rect:
         serializedVersion: 2
         x: 256
@@ -893,14 +893,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d456efdf72e31554f84ff24eaede5b49
-      internalID: -1315911601
+      spriteID: 19848ffa5f7526a4a9f580d27a2d46cb
+      internalID: -906425651
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_37
+      name: 4har_bob1_v01_37
       rect:
         serializedVersion: 2
         x: 320
@@ -914,14 +914,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bd448b9afb745434b8ac0493d4e0c2ea
-      internalID: -83882014
+      spriteID: 4c240086c6aeefd47a3393ef8e1edca9
+      internalID: -270590725
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_38
+      name: 4har_bob1_v01_38
       rect:
         serializedVersion: 2
         x: 384
@@ -935,14 +935,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 867e741a089a6db46aedcde9c759b88d
-      internalID: 1713247306
+      spriteID: d8e909644ee69324c904fc3fa23107c5
+      internalID: 1104943067
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_39
+      name: 4har_bob1_v01_39
       rect:
         serializedVersion: 2
         x: 448
@@ -956,14 +956,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ee15fa281fbd3d741b395615bb3fc2bc
-      internalID: 455956921
+      spriteID: c8d3dcbcaa7358944ad5ffc65ab9bd6d
+      internalID: -1730877577
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_40
+      name: 4har_bob1_v01_40
       rect:
         serializedVersion: 2
         x: 0
@@ -977,14 +977,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e98083172197a504abbefa3bce46bc97
-      internalID: 1416378954
+      spriteID: 9986fe3e6d55df2478824583ac188f53
+      internalID: 1017814394
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_41
+      name: 4har_bob1_v01_41
       rect:
         serializedVersion: 2
         x: 64
@@ -998,14 +998,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cbbcac6c4afd23743bdbb142c30df777
-      internalID: -55295037
+      spriteID: e2a43c6c6259b6c4caad53608d962d0a
+      internalID: -1406633036
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_42
+      name: 4har_bob1_v01_42
       rect:
         serializedVersion: 2
         x: 128
@@ -1019,14 +1019,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f30a1b570e040f4a8abf6a3826b4048
-      internalID: -1451266728
+      spriteID: abd33ab2ff6e3e54b9f201d61b93dc7e
+      internalID: 235494971
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_43
+      name: 4har_bob1_v01_43
       rect:
         serializedVersion: 2
         x: 192
@@ -1040,14 +1040,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 60b24104e166b4943b4a48b8a5f7a723
-      internalID: 1377457565
+      spriteID: 2d04b69b4e45213499cf10bf6e8be47a
+      internalID: 758987205
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_44
+      name: 4har_bob1_v01_44
       rect:
         serializedVersion: 2
         x: 256
@@ -1061,14 +1061,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9fb74b79b5453c44fa877b5871f0b3eb
-      internalID: 1003453602
+      spriteID: 45c92786b9382864aa7b87d61064c201
+      internalID: -2034840924
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_45
+      name: 4har_bob1_v01_45
       rect:
         serializedVersion: 2
         x: 320
@@ -1082,14 +1082,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a34a0efa0adbc34d8b853c3c2f32a78
-      internalID: -109768904
+      spriteID: 0cbb11a877b23a6449e3a3245ba4f773
+      internalID: 1425675750
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_46
+      name: 4har_bob1_v01_46
       rect:
         serializedVersion: 2
         x: 384
@@ -1103,14 +1103,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b063fea6ff8c8244beea41a8c6c0043
-      internalID: 1433877042
+      spriteID: 594643df9363d8445ba4806bedc076be
+      internalID: 931996359
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_47
+      name: 4har_bob1_v01_47
       rect:
         serializedVersion: 2
         x: 448
@@ -1124,14 +1124,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 322d5e304edd4984084af9214b442222
-      internalID: 304623535
+      spriteID: d18c8db74c4d3e24eafb80c7f5981cbf
+      internalID: 1498434324
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_48
+      name: 4har_bob1_v01_48
       rect:
         serializedVersion: 2
         x: 0
@@ -1145,14 +1145,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f419e831e049fe24cbc3f0f77240d2bc
-      internalID: 1573191094
+      spriteID: bc63a2eccfc81bf4b9f66bf5c15e9918
+      internalID: 1831690240
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_49
+      name: 4har_bob1_v01_49
       rect:
         serializedVersion: 2
         x: 64
@@ -1166,14 +1166,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c3df708dd31d2ec419492c9fce56d4ec
-      internalID: -330599280
+      spriteID: 770b475581c02b443b3c7f1f2588d2ef
+      internalID: 607012134
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_50
+      name: 4har_bob1_v01_50
       rect:
         serializedVersion: 2
         x: 128
@@ -1187,14 +1187,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ae6d8cc64be01304c8ac9e9cbfbdc0a7
-      internalID: -122351279
+      spriteID: eea12161e3c204f4ba75080478db603c
+      internalID: 1563854656
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_51
+      name: 4har_bob1_v01_51
       rect:
         serializedVersion: 2
         x: 192
@@ -1208,14 +1208,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d9e27e52a65c5dc4fb05dc453b0e8f9c
-      internalID: -1733366885
+      spriteID: 347f8c15097417440a8f0033783ebff8
+      internalID: 577862696
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_52
+      name: 4har_bob1_v01_52
       rect:
         serializedVersion: 2
         x: 256
@@ -1229,14 +1229,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 001dc0b8fcfe8754c91aa4c39657001a
-      internalID: 1618243066
+      spriteID: f382953ec01a76648a37771c6148c414
+      internalID: 550482761
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_53
+      name: 4har_bob1_v01_53
       rect:
         serializedVersion: 2
         x: 320
@@ -1250,14 +1250,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ea3d413cc22de594083231d464d15e16
-      internalID: 1719368396
+      spriteID: 686af6b35abb8af4e988adfb0c04400f
+      internalID: 1195945725
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_54
+      name: 4har_bob1_v01_54
       rect:
         serializedVersion: 2
         x: 384
@@ -1271,14 +1271,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1893a6a4f1fcd8047a53f31d9cc1d851
-      internalID: -1263367264
+      spriteID: 390927b0828e2cf46a5d91c0de328777
+      internalID: -721461860
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_55
+      name: 4har_bob1_v01_55
       rect:
         serializedVersion: 2
         x: 448
@@ -1292,14 +1292,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 04109b80f385b734ea5c0fc3e460871a
-      internalID: -1284308105
+      spriteID: 12e63c3718c18854881035c8f543ec3e
+      internalID: 1346164475
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_56
+      name: 4har_bob1_v01_56
       rect:
         serializedVersion: 2
         x: 0
@@ -1313,14 +1313,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c12cae18f220c3448bcad8c06c23fd61
-      internalID: -1307862123
+      spriteID: 833630e8fd55ac74a9bada8064475018
+      internalID: 1596595595
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_57
+      name: 4har_bob1_v01_57
       rect:
         serializedVersion: 2
         x: 64
@@ -1334,14 +1334,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 49f4e32bfe4b0904780ebe2841ec0347
-      internalID: -603893668
+      spriteID: 1047b60000ec6fe45afd96be16db7eac
+      internalID: -730018307
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_58
+      name: 4har_bob1_v01_58
       rect:
         serializedVersion: 2
         x: 128
@@ -1355,14 +1355,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 56a423c098884e841abc5f91d4a66bb5
-      internalID: -447472808
+      spriteID: 32075310ca898de43bbdf0f831ee305d
+      internalID: -1609849793
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_59
+      name: 4har_bob1_v01_59
       rect:
         serializedVersion: 2
         x: 192
@@ -1376,14 +1376,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: de58ce46aafd41842a6ad0f59abed704
-      internalID: 1496006024
+      spriteID: cb1d2beefb7baa14e9df5b4a9ac6f7bd
+      internalID: -1058298916
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_60
+      name: 4har_bob1_v01_60
       rect:
         serializedVersion: 2
         x: 256
@@ -1397,14 +1397,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e60f6bacac0c4654dba2e18626aeb07d
-      internalID: -176507329
+      spriteID: 66f048a8a615df04ca12d727a8388c38
+      internalID: 789439858
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_61
+      name: 4har_bob1_v01_61
       rect:
         serializedVersion: 2
         x: 320
@@ -1418,14 +1418,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 496e8932437e84f4d8c173779d9719c9
-      internalID: 635695104
+      spriteID: 9a28d4613ef91ab4da064cd51cbf9714
+      internalID: 1561046262
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_62
+      name: 4har_bob1_v01_62
       rect:
         serializedVersion: 2
         x: 384
@@ -1439,14 +1439,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8afdb81016a355f4b86e798a5041ba70
-      internalID: -1146861501
+      spriteID: 712f49fa8722452489af04a2037a8971
+      internalID: -1899374509
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_63
+      name: 4har_bob1_v01_63
       rect:
         serializedVersion: 2
         x: 448
@@ -1460,8 +1460,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: efcef291a1efc44469ac566a0320ef0c
-      internalID: -270840670
+      spriteID: 905f9ce807f79494fb0288c598dad1da
+      internalID: 1337615727
       vertices: []
       indices: 
       edges: []
@@ -1477,70 +1477,70 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      char_a_p1_1out_undi_v01_0: 540115174
-      char_a_p1_1out_undi_v01_1: -1998491592
-      char_a_p1_1out_undi_v01_10: -177744229
-      char_a_p1_1out_undi_v01_11: 1707093603
-      char_a_p1_1out_undi_v01_12: 987474956
-      char_a_p1_1out_undi_v01_13: -1317687276
-      char_a_p1_1out_undi_v01_14: 1073999131
-      char_a_p1_1out_undi_v01_15: 900122863
-      char_a_p1_1out_undi_v01_16: -1152756219
-      char_a_p1_1out_undi_v01_17: 858443409
-      char_a_p1_1out_undi_v01_18: 588560150
-      char_a_p1_1out_undi_v01_19: -673695311
-      char_a_p1_1out_undi_v01_2: -246928468
-      char_a_p1_1out_undi_v01_20: -817334910
-      char_a_p1_1out_undi_v01_21: -1564721109
-      char_a_p1_1out_undi_v01_22: 2107606423
-      char_a_p1_1out_undi_v01_23: 746078223
-      char_a_p1_1out_undi_v01_24: -1611719697
-      char_a_p1_1out_undi_v01_25: 268818926
-      char_a_p1_1out_undi_v01_26: -1972602265
-      char_a_p1_1out_undi_v01_27: -138725881
-      char_a_p1_1out_undi_v01_28: -379458012
-      char_a_p1_1out_undi_v01_29: 2024396874
-      char_a_p1_1out_undi_v01_3: 1566978842
-      char_a_p1_1out_undi_v01_30: 1529593570
-      char_a_p1_1out_undi_v01_31: -954684423
-      char_a_p1_1out_undi_v01_32: -291299715
-      char_a_p1_1out_undi_v01_33: 977898975
-      char_a_p1_1out_undi_v01_34: 141263519
-      char_a_p1_1out_undi_v01_35: 1743667620
-      char_a_p1_1out_undi_v01_36: -1315911601
-      char_a_p1_1out_undi_v01_37: -83882014
-      char_a_p1_1out_undi_v01_38: 1713247306
-      char_a_p1_1out_undi_v01_39: 455956921
-      char_a_p1_1out_undi_v01_4: -1364213899
-      char_a_p1_1out_undi_v01_40: 1416378954
-      char_a_p1_1out_undi_v01_41: -55295037
-      char_a_p1_1out_undi_v01_42: -1451266728
-      char_a_p1_1out_undi_v01_43: 1377457565
-      char_a_p1_1out_undi_v01_44: 1003453602
-      char_a_p1_1out_undi_v01_45: -109768904
-      char_a_p1_1out_undi_v01_46: 1433877042
-      char_a_p1_1out_undi_v01_47: 304623535
-      char_a_p1_1out_undi_v01_48: 1573191094
-      char_a_p1_1out_undi_v01_49: -330599280
-      char_a_p1_1out_undi_v01_5: 1238509903
-      char_a_p1_1out_undi_v01_50: -122351279
-      char_a_p1_1out_undi_v01_51: -1733366885
-      char_a_p1_1out_undi_v01_52: 1618243066
-      char_a_p1_1out_undi_v01_53: 1719368396
-      char_a_p1_1out_undi_v01_54: -1263367264
-      char_a_p1_1out_undi_v01_55: -1284308105
-      char_a_p1_1out_undi_v01_56: -1307862123
-      char_a_p1_1out_undi_v01_57: -603893668
-      char_a_p1_1out_undi_v01_58: -447472808
-      char_a_p1_1out_undi_v01_59: 1496006024
-      char_a_p1_1out_undi_v01_6: -1466925205
-      char_a_p1_1out_undi_v01_60: -176507329
-      char_a_p1_1out_undi_v01_61: 635695104
-      char_a_p1_1out_undi_v01_62: -1146861501
-      char_a_p1_1out_undi_v01_63: -270840670
-      char_a_p1_1out_undi_v01_7: -665023951
-      char_a_p1_1out_undi_v01_8: -2087624048
-      char_a_p1_1out_undi_v01_9: 2119003300
+      4har_bob1_v01_0: 984878686
+      4har_bob1_v01_1: -1366196824
+      4har_bob1_v01_10: -1383872538
+      4har_bob1_v01_11: 1751495223
+      4har_bob1_v01_12: -388405363
+      4har_bob1_v01_13: -452277955
+      4har_bob1_v01_14: -1755723588
+      4har_bob1_v01_15: -1873213158
+      4har_bob1_v01_16: -1057103539
+      4har_bob1_v01_17: 868407091
+      4har_bob1_v01_18: 1964487702
+      4har_bob1_v01_19: 449848686
+      4har_bob1_v01_2: 934516547
+      4har_bob1_v01_20: -163874120
+      4har_bob1_v01_21: 968250985
+      4har_bob1_v01_22: 2146335446
+      4har_bob1_v01_23: -1063653412
+      4har_bob1_v01_24: 894291503
+      4har_bob1_v01_25: 2080751847
+      4har_bob1_v01_26: -1508567689
+      4har_bob1_v01_27: 2135298698
+      4har_bob1_v01_28: 434795203
+      4har_bob1_v01_29: -90222048
+      4har_bob1_v01_3: 896806923
+      4har_bob1_v01_30: -1509422088
+      4har_bob1_v01_31: -1782888917
+      4har_bob1_v01_32: 1392177823
+      4har_bob1_v01_33: 1780074305
+      4har_bob1_v01_34: -725139862
+      4har_bob1_v01_35: 769343497
+      4har_bob1_v01_36: -906425651
+      4har_bob1_v01_37: -270590725
+      4har_bob1_v01_38: 1104943067
+      4har_bob1_v01_39: -1730877577
+      4har_bob1_v01_4: 607748228
+      4har_bob1_v01_40: 1017814394
+      4har_bob1_v01_41: -1406633036
+      4har_bob1_v01_42: 235494971
+      4har_bob1_v01_43: 758987205
+      4har_bob1_v01_44: -2034840924
+      4har_bob1_v01_45: 1425675750
+      4har_bob1_v01_46: 931996359
+      4har_bob1_v01_47: 1498434324
+      4har_bob1_v01_48: 1831690240
+      4har_bob1_v01_49: 607012134
+      4har_bob1_v01_5: 1592177518
+      4har_bob1_v01_50: 1563854656
+      4har_bob1_v01_51: 577862696
+      4har_bob1_v01_52: 550482761
+      4har_bob1_v01_53: 1195945725
+      4har_bob1_v01_54: -721461860
+      4har_bob1_v01_55: 1346164475
+      4har_bob1_v01_56: 1596595595
+      4har_bob1_v01_57: -730018307
+      4har_bob1_v01_58: -1609849793
+      4har_bob1_v01_59: -1058298916
+      4har_bob1_v01_6: 1211865277
+      4har_bob1_v01_60: 789439858
+      4har_bob1_v01_61: 1561046262
+      4har_bob1_v01_62: -1899374509
+      4har_bob1_v01_63: 1337615727
+      4har_bob1_v01_7: -669450917
+      4har_bob1_v01_8: -1346283686
+      4har_bob1_v01_9: 422602358
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
