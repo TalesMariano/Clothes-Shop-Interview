@@ -10,10 +10,15 @@ public class UIPriceTag : MonoBehaviour
 
     [SerializeField] private RectTransform rectTransform;
 
+    public Transform target;
+
     void UpdatePosition(Transform target)
     {
         rectTransform.anchoredPosition = RectTransformUtility.WorldToScreenPoint(Camera.main, target.position);
     }
 
-
+    private void Update()
+    {
+        UpdatePosition(target);
+    }
 }

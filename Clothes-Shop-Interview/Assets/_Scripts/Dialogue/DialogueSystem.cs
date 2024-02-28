@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class DialogueSystem : MonoBehaviour
 {
@@ -49,14 +50,20 @@ public class DialogueSystem : MonoBehaviour
 
     void StartText()
     {
-        ShowUI();
+        StartDialogue();
         currentLine = 0;
         AdvandeDialogue();
     }
 
 
 
-    public void NewDialogue(string[] dialogue)
+    public void NewDialogue(string[] dialogue )
+    {
+        currentDialogue = dialogue;
+        StartText();
+    }
+
+    public void NewDialogue(string[] dialogue, UnityEvent event1)
     {
         currentDialogue = dialogue;
         StartText();
@@ -64,9 +71,9 @@ public class DialogueSystem : MonoBehaviour
 
     public void AdvandeDialogue()   // Remove public
     {
-        if (currentLine >= currentDialogue.Length)
+        if (currentDialogue== null || currentLine >= currentDialogue.Length)
         {
-            dialogueUI.HideUI();
+            EndDialogue();
             return;
         }
 
@@ -74,16 +81,21 @@ public class DialogueSystem : MonoBehaviour
         currentLine++;
     }
 
-    public void ShowUI()
+    public void StartDialogue()
     {
         visible = true;
+
+        Time.timeScale = 0;
 
         dialogueUI.ShowUI();
     }
 
-    public void HideUI()
+    public void EndDialogue()
     {
         visible = true;
+
+        Time.timeScale = 1;
+
         dialogueUI.HideUI();
     }
 
