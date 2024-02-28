@@ -10,12 +10,12 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1465051418401079054, guid: 4d9e9e393493af243b5457de73ec9de7, type: 3}
       propertyPath: m_Name
-      value: Hat Sprite Animation Variant
+      value: Hair1 Sprite Animation
       objectReference: {fileID: 0}
     - target: {fileID: 4725674810352818555, guid: 4d9e9e393493af243b5457de73ec9de7, type: 3}
       propertyPath: m_Controller
       value: 
-      objectReference: {fileID: 22100000, guid: b1688aeb4413022478c5865f690c6bf9, type: 2}
+      objectReference: {fileID: 22100000, guid: 923d8b899470a3c4db1cc4e08917c48c, type: 2}
     - target: {fileID: 4804380394739074007, guid: 4d9e9e393493af243b5457de73ec9de7, type: 3}
       propertyPath: m_Size.x
       value: 4
@@ -27,7 +27,7 @@ PrefabInstance:
     - target: {fileID: 4804380394739074007, guid: 4d9e9e393493af243b5457de73ec9de7, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 389950676, guid: 7ff002629a6166848b8995832621f714, type: 3}
+      objectReference: {fileID: -1366196824, guid: bce2cb1121968c240963b13b43c38674, type: 3}
     - target: {fileID: 4804380394739074007, guid: 4d9e9e393493af243b5457de73ec9de7, type: 3}
       propertyPath: m_WasSpriteAssigned
       value: 1
