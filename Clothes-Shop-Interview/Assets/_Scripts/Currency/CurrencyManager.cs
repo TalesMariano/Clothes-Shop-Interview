@@ -13,6 +13,9 @@ public class CurrencyManager : MonoBehaviour
 
     public Action<int> OnCurrencyChange;
 
+    public Action<int> OnShowPrice;
+    public Action OnHidePrice;
+
     private void Awake()
     {
         if (Instance != null && Instance != this)
@@ -50,4 +53,14 @@ public class CurrencyManager : MonoBehaviour
         }
     }
 
+    public void ShowPrice(int price)
+    {
+        OnShowPrice?.Invoke(price);
+    }
+
+
+    public void HidePrice()
+    {
+        OnHidePrice?.Invoke();
+    }
 }

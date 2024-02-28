@@ -9,9 +9,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 535980f2e4de8c24fb3dd1c2b5855a55, type: 3}
-  m_Name: New Item
+  m_Script: {fileID: 11500000, guid: 344316d09c1424c4491a697b4523cc8e, type: 3}
+  m_Name: Hair1
   m_EditorClassIdentifier: 
-  icon: {fileID: 0}
+  icon: {fileID: -1366196824, guid: bce2cb1121968c240963b13b43c38674, type: 3}
   color: {r: 1, g: 1, b: 1, a: 1}
-  price: 0
+  price: 45
+  itemPrefab: {fileID: 5283175511586456634, guid: 2bc634ccc6f4f6348aa61b999160e921, type: 3}
+  clothesPart: 3
