@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   icon: {fileID: -1389829591, guid: 139124ee802f2b64b83f7c49a1bc52ac, type: 3}
   color: {r: 1, g: 1, b: 1, a: 1}
-  price: 50
+  price: 60
   itemPrefab: {fileID: 5283175511586456634, guid: ccfee8a787026df43b237da58b4e08d8, type: 3}
   clothesPart: 3

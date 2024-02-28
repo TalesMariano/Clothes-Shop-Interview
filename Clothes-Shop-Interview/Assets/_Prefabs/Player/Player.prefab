@@ -125,7 +125,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5c4705a87c9b82b499495f5799a87a07, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  currentBodyClothes: {fileID: 6827125899720080492}
+  currentBodyClothes: {fileID: 0}
   currentHeadClothes: {fileID: 0}
 --- !u!1 &2919376842310981762
 GameObject:
@@ -260,7 +260,7 @@ GameObject:
   - component: {fileID: 8958513903560815898}
   - component: {fileID: 5331999278231545262}
   m_Layer: 0
-  m_Name: Clothes
+  m_Name: Underwear
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
