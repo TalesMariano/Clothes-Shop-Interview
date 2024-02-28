@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: Robe1
   m_EditorClassIdentifier: 
   icon: {fileID: 21300000, guid: 22d9add655d2a1e4ca342197777d4df1, type: 3}
-  color: {r: 1, g: 1, b: 1, a: 1}
+  color: {r: 0.90588236, g: 0.61960787, b: 0.09411765, a: 1}
   price: 200
-  itemPrefab: {fileID: 0}
+  itemPrefab: {fileID: 5283175511586456634, guid: ebec8cf125bfa2949ae9521dfba52639, type: 3}
+  clothesPart: 2
