@@ -6,22 +6,20 @@ public class InteractorPoint : MonoBehaviour
 {
     [SerializeField] private GameObject lastInteractable;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
     void Update()
     {
         if(Input.GetButtonDown("Fire1") || Input.GetButtonDown("Jump"))
         {
             if(lastInteractable != null)
             {
-                print(" Interact with " + lastInteractable.name);
+                InteractWithObject();
             }
         }
+    }
+
+    void InteractWithObject()
+    {
+        lastInteractable.GetComponent<IInteractable>().Interact();
     }
 
     void OnTriggerEnter2D(Collider2D col)
