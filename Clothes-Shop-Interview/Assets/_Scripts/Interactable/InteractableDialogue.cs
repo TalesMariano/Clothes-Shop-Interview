@@ -14,4 +14,11 @@ public class InteractableDialogue : MonoBehaviour, IInteractable
         DialogueSystem.Instance.NewDialogue(dialogue);
     }
 
+    public void OnSelected()
+    {
+    }
+
+    public void OnUnselected()
+    {
+    }
 }

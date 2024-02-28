@@ -12,4 +12,12 @@ public class InteractableEvent : MonoBehaviour, IInteractable
     {
         unityEvent?.Invoke();
     }
+
+    public void OnSelected()
+    {
+    }
+
+    public void OnUnselected()
+    {
+    }
 }

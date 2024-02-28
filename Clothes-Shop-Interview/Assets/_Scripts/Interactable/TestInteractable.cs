@@ -9,4 +9,11 @@ public class TestInteractable : MonoBehaviour, IInteractable
         Debug.Log("Interacting with " + name);
     }
 
+    public void OnSelected()
+    {
+    }
+
+    public void OnUnselected()
+    {
+    }
 }

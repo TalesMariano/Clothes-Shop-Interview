@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class InteractorPoint : MonoBehaviour
 {
-    [SerializeField] private GameObject lastInteractable;
+    [SerializeField] private IInteractable lastInteractable;
 
     void Update()
     {
@@ -19,23 +19,35 @@ public class InteractorPoint : MonoBehaviour
 
     void InteractWithObject()
     {
-        lastInteractable.GetComponent<IInteractable>().Interact();
+        lastInteractable.Interact();
+    }
+
+    void SelectInteractable(IInteractable interactable)
+    {
+        lastInteractable = interactable;
+        interactable.OnSelected();
+    }
+
+    void UnselectInteractable()
+    {
+        lastInteractable?.OnUnselected();
+        lastInteractable = null;
     }
 
     void OnTriggerEnter2D(Collider2D col)
     {
         if (col.gameObject.CompareTag("Interactive Object"))
         {
-            lastInteractable = col.gameObject;
-            
+            if (lastInteractable != null) UnselectInteractable();
+            SelectInteractable(col.GetComponent<IInteractable>());            
         }
     }
 
     void OnTriggerExit2D(Collider2D col)
     {
-        if (col.gameObject == lastInteractable)
+        if (col.GetComponent<IInteractable>() == lastInteractable)
         {
-            lastInteractable = null;
+            UnselectInteractable();
         }
     }
 }
