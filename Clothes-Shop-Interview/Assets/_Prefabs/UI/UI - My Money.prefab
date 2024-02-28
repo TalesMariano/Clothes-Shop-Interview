@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4698774237227971804}
   - component: {fileID: 8962368047252597068}
   - component: {fileID: 8079522624950119881}
+  - component: {fileID: 2339886983296431026}
   m_Layer: 5
   m_Name: UI - My Money
   m_TagString: Untagged
@@ -134,3 +135,16 @@ MonoBehaviour:
   m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!114 &2339886983296431026
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4371078559560873734}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71cc2172019b9fe4ca64b9edd6483809, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textField: {fileID: 8079522624950119881}
