@@ -36,7 +36,7 @@ public class DialogueSystem : MonoBehaviour
 
         if (Input.GetButtonDown("Fire1") || Input.GetButtonDown("Jump"))
         {
-            AdvandeDialogue();
+            //AdvandeDialogue();
         }
     }
 
@@ -62,7 +62,7 @@ public class DialogueSystem : MonoBehaviour
         StartText();
     }
 
-    void AdvandeDialogue()
+    public void AdvandeDialogue()   // Remove public
     {
         if (currentLine >= currentDialogue.Length)
         {
