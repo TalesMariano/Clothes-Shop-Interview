@@ -6857,7 +6857,7 @@ GameObject:
   - component: {fileID: 7264326762087496848}
   - component: {fileID: 3328480338189113779}
   m_Layer: 0
-  m_Name: New Palette
+  m_Name: Palette RPG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
