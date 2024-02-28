@@ -20,6 +20,7 @@ public class InteractorPoint : MonoBehaviour
     void InteractWithObject()
     {
         lastInteractable.Interact();
+        UnselectInteractable();
     }
 
     void SelectInteractable(IInteractable interactable)

@@ -1,11 +1,16 @@
-using System.Collections;
+using System;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
 public class DialogueSystem : MonoBehaviour
 {
-    [SerializeField] private DialogueUI dialogueUI;
+    //[SerializeField] private DialogueUI dialogueUI;
+
+    public Action OnShowUI;
+    public Action OnHideUI;
+    public Action<string> OnNewLine;
+    public Action OnEndDialogue;
 
 
     bool visible = false;
@@ -30,21 +35,11 @@ public class DialogueSystem : MonoBehaviour
         }
     }
 
-    private void Update()
-    {
-        if (!visible)
-            return;
-
-        if (Input.GetButtonDown("Fire1") || Input.GetButtonDown("Jump"))
-        {
-            //AdvandeDialogue();
-        }
-    }
 
     [ContextMenu("TestDialogue")]
     void TestDialogue()
     {
-        dialogueUI.ShowUI();
+        OnShowUI?.Invoke();
         NewDialogue( new string[]{ "Lorem Ipsun", "Lorem Ipsun2" });
     }
 
@@ -73,11 +68,12 @@ public class DialogueSystem : MonoBehaviour
     {
         if (currentDialogue== null || currentLine >= currentDialogue.Length)
         {
+
             EndDialogue();
             return;
         }
 
-        dialogueUI.ReceiveText(currentDialogue[currentLine]);
+        OnNewLine?.Invoke(currentDialogue[currentLine]);
         currentLine++;
     }
 
@@ -87,7 +83,7 @@ public class DialogueSystem : MonoBehaviour
 
         Time.timeScale = 0;
 
-        dialogueUI.ShowUI();
+        OnShowUI.Invoke();
     }
 
     public void EndDialogue()
@@ -96,7 +92,7 @@ public class DialogueSystem : MonoBehaviour
 
         Time.timeScale = 1;
 
-        dialogueUI.HideUI();
+        OnHideUI?.Invoke();
     }
 
 }

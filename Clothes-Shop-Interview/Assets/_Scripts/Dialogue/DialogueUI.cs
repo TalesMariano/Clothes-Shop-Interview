@@ -23,10 +23,25 @@ public class DialogueUI : MonoBehaviour, IDialogueUI
 
     bool choiceBoxOpen = false;
 
-    Action Button1Event;
     public UnityEvent event1;
 
     public UnityEvent event2;
+
+    private void OnEnable()
+    {
+        DialogueSystem.Instance.OnShowUI += ShowUI;
+        DialogueSystem.Instance.OnHideUI += HideUI;
+        DialogueSystem.Instance.OnNewLine += ReceiveText;
+
+    }
+
+    private void OnDisable()
+    {
+        DialogueSystem.Instance.OnShowUI -= ShowUI;
+        DialogueSystem.Instance.OnHideUI -= HideUI;
+        DialogueSystem.Instance.OnNewLine -= ReceiveText;
+    }
+
 
     private void Start()
     {
@@ -37,14 +52,6 @@ public class DialogueUI : MonoBehaviour, IDialogueUI
         buttonChoice2.onClick.AddListener(Button2Click);
     }
 
-
-    private void Update()
-    {
-        if (Input.GetKeyDown(KeyCode.R))
-        {
-            SelectInvisibutton();
-        }
-    }
 
     void Button1Click()
     {
@@ -68,6 +75,7 @@ public class DialogueUI : MonoBehaviour, IDialogueUI
     public void ReceiveText(string text)
     {
         textBox.text = text;
+        EventSystem.current.SetSelectedGameObject(buttonAdvanceDialogue.gameObject);
     }
 
     public void ReceiveText(string text, bool showCoiceBox = false)
